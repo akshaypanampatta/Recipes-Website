@@ -1,0 +1,45 @@
+.blog{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    justify-content: center; 
+    
+}
+.blog-content{
+    width:20rem;
+    background-color:  #E4E5E8;
+    height: 25rem;
+    width: 20rem;
+    margin-left: 3.7rem;
+}
+
+.textname{
+    text-align: center;
+    padding-top: 2rem;
+    font-family: 'Mate SC', serif;
+    font-weight: 1000;
+}
+.textwelcome{
+    font-family: "Dark";
+    text-align: center;
+    font-weight: 1000;
+    font-size: 2rem;
+    color: #525252;
+}
+.textt{
+    text-align: center;
+    line-height: 2;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: black;   
+}
+.image1,
+.image2{
+   
+    width: 20rem;
+    height: 25rem;
+    margin-left: 3.7rem;
+
+}

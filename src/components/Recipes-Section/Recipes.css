@@ -1,0 +1,76 @@
+.recipes{
+   width: 100%;
+   height: auto;
+}
+.texts{
+     width: 100%;
+    height: auto;
+   background-color:  rgb(107, 44, 80);
+    text-align: center;
+    color: white;
+    
+}
+.text-one{
+    font-size: 3.5rem;
+     font-family: "Round";
+     font-weight:lighter
+
+}
+.text-two{
+
+max-width: 30rem;
+text-align: center;
+margin: 0 auto;
+padding-bottom: 3rem;
+}
+
+.inputfield-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -1rem;
+    background-color: gre;
+    
+}
+
+.input-two{
+    
+    width: 25rem;
+    height: 2rem;
+    
+    
+    border-color: grey;
+    border: 1px solid grey;
+
+    
+    
+  
+    
+    
+}
+.button-two{
+    background-color: white;
+    color:  rgb(107, 44, 80);
+    height: 2rem;
+    
+    border: 1px solid grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.top-heading{
+    color: rgb(107, 44, 80);
+}

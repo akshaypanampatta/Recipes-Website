@@ -1,0 +1,38 @@
+.caption {
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.textfirst,
+.textsecond {
+  display: inline;
+}
+
+.totaltext {
+  padding-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.textfirst {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 16px;
+  
+  
+}
+.textsecond {
+  font-family: "Dark";
+  font-weight: 400;
+  color: rgb(107, 44, 80);
+  justify-content: center;
+  font-size: 35px;
+  position: relative;
+  top: -0.3rem;
+  margin-left: 1rem;
+  
+}
+

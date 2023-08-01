@@ -1,0 +1,65 @@
+.toprecipes{
+    width: 100%;
+    height: auto;
+
+}
+.trophy-icon{
+    color: goldenrod;
+    font-size: 3rem;
+}
+.top-heading{
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-top: 0.2rem;
+}
+.heading-trophy{
+    display: flex;
+    padding-top: 2rem; 
+    justify-content: center;
+}
+.long-text{
+ max-width: 30rem;
+text-align: center;
+margin: auto;
+color: #525252;
+font-size: 0.8rem;
+}
+.total-recipes{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.recipe{
+    height: 6rem;
+    width:23rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+}
+.recipe-image{
+    height: 6rem;
+}
+.recipe-caption{
+    max-width: 13rem;
+    font-weight: 800;
+   font-family: 'Mate SC', serif;
+   line-height: 1rem;
+   margin-top: 0.5rem;
+   margin-left: 0.5rem;
+}
+.star{
+    color: goldenrod;
+    margin-top: -1rem;
+    margin-left: 0.5rem;
+}
+.review{
+    font-family: 'Mate SC', serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    margin-top: 0.2rem;
+    margin-left: 0.5rem;
+}

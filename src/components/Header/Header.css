@@ -1,0 +1,48 @@
+.header {
+  width: 100%;
+  height: auto;
+  
+  
+}
+
+.navbar-light .navbar-brand {
+  font-family: "Light";
+  font-weight: 1000;
+  font-size: 2.5rem;
+  color:rgb(107, 44, 80) !important;
+  
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-right: 1.5rem;
+ 
+}
+
+
+.navbar .nav-link.searchicon{
+  color:rgb(107, 44, 80);
+  cursor: pointer;
+}
+
+.line{
+  color: grey;
+ margin-top: -0.5rem;
+  
+}
+.nav-link
+{
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+ margin-right: 1.5rem;
+}
+
+.nav-link:hover{
+  color: grey;
+ 
+}
+.nav-link:focus, .nav-link:hover {
+    color:rgb(107, 44, 80) ;
+}
+

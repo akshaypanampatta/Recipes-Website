@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face{
+  font-family:"Light";
+  src: local("AlexBrush-Regular"),
+  url("./fonts/AlexBrush-Regular.ttf") format("truetype")
+}
+
+
+@font-face{
+  font-family: "Dark";
+  src:local("WinterSong-owRGB"),
+  url("./fonts/WinterSong-owRGB.ttf") format("truetype")
+}
+
+@font-face{
+  font-family: "Round";
+  src:local("Viafont"),
+  url("./fonts/Viafont.ttf") format("truetype")
+}

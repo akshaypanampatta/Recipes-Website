@@ -1,0 +1,49 @@
+.about{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #C5C5C5;
+}
+.about-text{
+    margin-left: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-width:25rem;
+}
+.two-line,
+.three-line{
+    display: inline;
+}
+.two-three-line{
+    margin-top: -1.5rem;
+}
+.one-line{
+    color: rgb(107, 44, 80);
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: 'Mate SC', serif;
+    
+    
+}
+.two-line{
+    font-family: 'Mate SC', serif;
+    font-weight: bold;
+    
+}
+.three-line{
+    font-family: "Dark";
+    font-weight: 700;
+    font-size: 2rem;
+    color: grey;
+}
+.four-line{
+    margin-top: 1rem;
+    line-height: 1.5;
+    color: #171717;
+    font-size:90%;
+    
+}
